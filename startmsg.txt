@@ -1,0 +1,2 @@
+Welcome to WASE v1.0 Alpha!
+If you need help visit the wiki and user manual.
