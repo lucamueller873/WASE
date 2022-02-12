@@ -1,0 +1,14 @@
+<doc>
+    <brackets left="[" right="]" />
+    <style name="Green" color="Green" fontStyle="Bold" />
+    <style name="Blue" color="RoyalBlue"/>
+	<style name="Yellow" color="Yellow"/>
+	<style name="Red" color="Red" fontStyle="Bold"/>
+    <rule style="Green">\[(.*?)\]</rule>
+    <rule style="Red">\!\-\!(.*?)\!\-\!</rule>
+	<rule style="Red">[=]</rule>
+    <rule style="Blue">["]</rule>
+
+        <rule style="Yellow">\{(.*?)\}</rule>
+
+</doc>

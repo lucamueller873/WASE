@@ -1,0 +1,15 @@
+C:\Users\bruno\source\repos\WASE\WASE\obj\Debug\WASE.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\WASE\WASE\obj\Debug\WASE.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\source\repos\WASE\WASE\obj\Debug\WASE.Form1.resources
+C:\Users\bruno\source\repos\WASE\WASE\obj\Debug\WASE.Properties.Resources.resources
+C:\Users\bruno\source\repos\WASE\WASE\obj\Debug\WASE.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\WASE\WASE\obj\Debug\WASE.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\WASE\WASE\bin\Debug\WASEApp.exe.config
+C:\Users\bruno\source\repos\WASE\WASE\bin\Debug\WASEApp.exe
+C:\Users\bruno\source\repos\WASE\WASE\bin\Debug\WASEApp.pdb
+C:\Users\bruno\source\repos\WASE\WASE\bin\Debug\FastColoredTextBox.dll
+C:\Users\bruno\source\repos\WASE\WASE\bin\Debug\FastColoredTextBox.xml
+C:\Users\bruno\source\repos\WASE\WASE\obj\Debug\WASE.pres.resources
+C:\Users\bruno\source\repos\WASE\WASE\obj\Debug\WASE.csproj.CopyComplete
+C:\Users\bruno\source\repos\WASE\WASE\obj\Debug\WASEApp.exe
+C:\Users\bruno\source\repos\WASE\WASE\obj\Debug\WASEApp.pdb
