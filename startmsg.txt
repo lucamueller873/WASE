@@ -1,3 +1,4 @@
-Thank you for downloading the WASE-App!
-If you need help, visit the wiki.
-If you want to contribute to the project, visit the GitHub Repository.
+!-! WASE 1.0 !-!
+Thank you for using WASE 1.0!
+If you need help, read the documentation or visit the wiki.
+If you want to contribute to the project, visit the GitHub repository.
